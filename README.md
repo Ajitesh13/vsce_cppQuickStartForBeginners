@@ -5,10 +5,10 @@ I'm a CS freshman and find myself always doing the same boring work: #include <i
 So I decided to make it easier. And here is:
 A C++ snippet generator contains few lines probably needed by beginners.
 
-# Usage
+<!-- # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
-![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview")
+![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview") -->
 
 # Installation
 
