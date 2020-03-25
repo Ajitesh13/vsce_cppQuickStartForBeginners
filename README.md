@@ -1,4 +1,4 @@
-# README
+<!-- # README
 ## Visual Studio Code C++ Quick Start for Beginners
 
 I'm a CS freshman and find myself always doing the same boring work: #include <iostream> using namespace...
@@ -8,7 +8,7 @@ A C++ snippet generator contains few lines probably needed by beginners.
 <!-- # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
-![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview") -->
+![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview") 
 
 # Installation
 
@@ -28,4 +28,4 @@ This extension is mostly based on "HTML Boilerplate" (https://github.com/sidthes
 Since I have done a little work, I don't want to keep any copyright, you only have to follow his one(MIT).
 
 # Source
-[Github](https://github.com/yyxhx/vsce_cppQuickStartForBeginners)
+[Github](https://github.com/yyxhx/vsce_cppQuickStartForBeginners) -->
